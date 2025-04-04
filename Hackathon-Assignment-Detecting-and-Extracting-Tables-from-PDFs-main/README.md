@@ -42,9 +42,11 @@ pip install pdfplumber PyPDF2 pandas openpyxl streamlit
 │── 📂 pdfs            # Folder to store input PDFs
 │── 📂 output          # Folder to store extracted Excel files
 
-Example Output
-![Table Output Screenshot](assets/output1.png)
-![Table Output Screenshot](assets/output2.png)
+📸 Example Output
+
+<img src="assets/output1.png" width="700"/>
+<img src="assets/output2.png" width="700"/>
+
 After processing, extracted tables are saved as Excel files in the output/ folder, each sheet containing a table from the PDF.
 
 🤝 Contributing
